@@ -1,5 +1,5 @@
 /**
- * Created by kirill on 10/6/2015.
+ * Created by kirill on 10/6/2015..
  */
 import java.util.Scanner;
 public class Main {
